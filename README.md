@@ -14,7 +14,6 @@ The app relies on a secret set as the environment variable `JWT_SECRET` to produ
 
 
 
-
 ## Prerequisites
 
 * Docker Desktop - Installation instructions for all OSes can be found <a href="https://docs.docker.com/install/" target="_blank">here</a>.
